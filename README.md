@@ -7,6 +7,17 @@
   </a>
 </p>
 
+
+---
+
+## 📫 Let's Connect!
+
+- **GitHub:** [fslmc](https://github.com/fslmc)
+- **Email:** [fslfaisal17@gmail.com](mailto:fslfaisal17@gmail.com)
+- **LinkedIn:** [Muhammad Faisal Aktsa](https://www.linkedin.com/in/muhammad-faisal-aktsa)
+
+---
+
 <!--
 **fslmc/fslmc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
